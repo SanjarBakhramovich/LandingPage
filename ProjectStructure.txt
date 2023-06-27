@@ -1,0 +1,22 @@
+Nav with sections
+
+Who am I? (Introduction)
+    Web Dev Intro Text in Left Side
+    Some intro Img on right side
+What am I doing (skills)
+    Web Dev, Page speed optimization, 
+    Design, UI/UX, Prompt Engineering.
+
+
+Features of what am I doing
+    CRO, SEO writing, Google Ranking
+
+Facts about efficiency and speed
+    screenshots of: SEO, Page Speed optimization
+
+Order Consultation
+
+Prices
+
+Link to my profiles in Freelance platforms
+and Social media also in Linkedin.
